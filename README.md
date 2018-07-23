@@ -14,14 +14,14 @@ ________________________________________________________________________________
 
 This include:
 
-- 7 redshift bins (z= 0, 0.5, 1, 1.5, 2, 2.5, 3
+- 7 redshift bins (z= 0, 0.5, 1, 1.5, 2, 2.5, 3)
 - 6 number densities (n/h^3Mpc^-3 = 0.0316, 0.01,0.00316, 0.001, 0.000316, 0.0001)
 - Based in 2 galaxy properties (Mstell & SFR)
 
 The HODs are measured for bins of 10% of the age and concentration of the haloes,
 for a total of ~1800 HODs.
 
-All masses are in logarithm and in units of Msol/h
+All masses are in logarithm and in units of Msun/h 
 
        Fit_Extractor/Fit.hdf5
 
